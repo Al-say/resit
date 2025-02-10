@@ -1,0 +1,22 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.autoStash": true,
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "core.autocrlf": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "git.enabled": true,
+    "git.ignoreLimitWarning": true,
+    "git.detectSubmodules": false,
+    "git.fetchOnPull": false,
+    "git.confirmSync": false,
+    "git.countBadge": "tracked",
+    "git.inputValidation": false,
+    "git.detectSubmodulesLimit": 1,
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true
+}
