@@ -7,7 +7,7 @@
 - **数据库(DB)**：长期存储在计算机内、有组织、可共享的数据集合
 - **数据库管理系统(DBMS)**：用于管理数据库的软件系统
 - **数据库系统(DBS)**：包含数据库、数据库管理系统、数据库管理员和用户的完整系统
-- **重要关系**：DBS包含DB和DBMS ⭐
+- **重要关系**：==DBS包含DB和DBMS== ⭐
 
 ### 1.2 数据库三级模式 ⭐⭐
 > 数据库的三级模式结构是数据库的框架：
@@ -317,7 +317,7 @@ ROLLBACK;
    -- 小表驱动大表
    SELECT * FROM small_table s
    JOIN big_table b ON s.id = b.id;
-
+   
    -- 使用索引列作为连接条件
    SELECT * FROM table1 t1
    JOIN table2 t2 ON t1.indexed_col = t2.indexed_col;

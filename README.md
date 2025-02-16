@@ -3,6 +3,10 @@
 
 > Last tested: 2025/2/10
 
+1. Keep the original question
+2. Judge my answer after each question
+3. Add a 'correct/incorrect' judgment for each answer
+4. Provide detailed analysis for each answer so that I can read all the content in the correct format.
 ## 操作步骤
 
 1. PDF转换为Markdown格式
